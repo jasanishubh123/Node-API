@@ -1,0 +1,22 @@
+1)  Create folder and Open in VS code
+
+2)  Create Subfolder Config , Model , Controller . and create app.js
+
+3)  Install Dependency Like express,nodemon,body-parser.
+	npm init (Create Package.json)
+	npm install -g nodemon
+	npm install --save express
+	npm install body-parser
+	npm install --save mongoose
+	
+4) In Config folder create db.js file
+
+5) In  Model folder create ___Model.js
+
+6) In Controller folder create  ___Controller.js
+
+7) import controller in app.js
+
+
+
+
